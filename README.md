@@ -18,3 +18,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+
+![myBadge](http://45544946-1702238794853276.test.functioncompute.com/api?word1=Made%20By&word2=Chino!!!&color1=A7BFC1&color2=5593C8)
