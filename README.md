@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafuChino&show_icons=true&hide=c&theme=vue-dark"/>
 
-<!--
-**CafuChino/CafuChino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 Here`s Chino !!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Rearyard](https://github.com/Rearyard)，[plop-cn-doc](https://github.com/CafuChino/plop-cn-doc)，
+- 🌱 I’m currently learning Front-end Develop
+- 📫 How to reach me: Plz mail to `kirino@cafuchino.cn`
+- 💻I am looking for a job in front end development
+- ⚡ Fun fact: 
+  - `Oh Hackintosh!!!`
+  - `What about Rearyard?`
+  - `Neko 'para' :)`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=CafuChino&count_private=true&show_icons=true&theme=vue-dark"/>
+
